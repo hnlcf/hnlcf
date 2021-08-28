@@ -1,5 +1,5 @@
-### Hi there 👋
-
+你好
+我是一名学生，喜欢 `github` 上各种有趣的项目。这里也有我做的一些小东西，希望你能够喜欢。
 <!--
 **hnlcf/hnlcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
